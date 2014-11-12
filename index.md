@@ -202,3 +202,4 @@ https://developer.mozilla.org/ja/docs/Web/CSS/resolution
 - [length - CSS | MDN](https://developer.mozilla.org/ja/docs/Web/CSS/Length)
 - [CSS には vw, vh, vmin, vmax という単位がある](http://dev.classmethod.jp/ria/html5/css-length-viewport/)
 - [CSSの単位](https://w3g.jp/css/guide/units)
+- [Android units – pixels, density, dpi, dip, dp, dps, sp, sip](http://blog.edwinevans.me/?p=131)
